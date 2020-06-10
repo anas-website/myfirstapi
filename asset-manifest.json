@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/myfirstapi/static/js/main.88b7b9ad.chunk.js",
-    "main.js.map": "/myfirstapi/static/js/main.88b7b9ad.chunk.js.map",
+    "main.js": "/myfirstapi/static/js/main.a9924476.chunk.js",
+    "main.js.map": "/myfirstapi/static/js/main.a9924476.chunk.js.map",
     "runtime~main.js": "/myfirstapi/static/js/runtime~main.095dd475.js",
     "runtime~main.js.map": "/myfirstapi/static/js/runtime~main.095dd475.js.map",
     "static/css/2.ccd0549d.chunk.css": "/myfirstapi/static/css/2.ccd0549d.chunk.css",
     "static/js/2.854129a3.chunk.js": "/myfirstapi/static/js/2.854129a3.chunk.js",
     "static/js/2.854129a3.chunk.js.map": "/myfirstapi/static/js/2.854129a3.chunk.js.map",
     "index.html": "/myfirstapi/index.html",
-    "precache-manifest.a543949b5aca1ee36af6cc164ca7bc5c.js": "/myfirstapi/precache-manifest.a543949b5aca1ee36af6cc164ca7bc5c.js",
+    "precache-manifest.145f0bd612b5e2f50a09ae27bf957c84.js": "/myfirstapi/precache-manifest.145f0bd612b5e2f50a09ae27bf957c84.js",
     "service-worker.js": "/myfirstapi/service-worker.js",
     "static/css/2.ccd0549d.chunk.css.map": "/myfirstapi/static/css/2.ccd0549d.chunk.css.map"
   }
