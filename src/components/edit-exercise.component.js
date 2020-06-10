@@ -87,7 +87,8 @@ export default class EditExercise extends Component {
 
     console.log(exercise);
     // http://localhost:5000/exercises/update/
-    axios.post('https://myapifirs.herokuapp.com/exercises/update/', this.props.match.params.id, exercise)
+    var pid='https://myapifirs.herokuapp.com/exercises/update/'+this.props.match.params.id
+    axios.post(pid, exercise)
       .then(res => console.log(res.data));
 
     // window.location = '/';
