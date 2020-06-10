@@ -79,7 +79,7 @@ export default class CreateExercise extends Component {
     axios.post('https://myapifirs.herokuapp.com/exercises/add/', exercise)
       .then(res => console.log(res.data));
 
-    // window.location = '/';
+    window.location = '/';
   }
 
   render() {

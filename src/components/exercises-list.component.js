@@ -36,7 +36,7 @@ export default class ExercisesList extends Component {
   }
   // http://localhost:5000/exercises/
   deleteExercise(id) {
-    axios.delete('https://myapifirs.herokuapp.com/exercises/'+id)
+    axios.delete('https://myapifirs.herokuapp.com/exercises/',id)
       .then(response => { console.log(response.data)});
 
     this.setState({
